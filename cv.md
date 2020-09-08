@@ -10,5 +10,6 @@
 * HTML Academy
 * CS50
 * Udemy
+* learn.javascript.ru
 ## English
 **Pre-Intermediate**
